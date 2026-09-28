@@ -96,8 +96,8 @@ flowchart TD
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-username/zerotwo-automation-suite.git
-   cd zerotwo-automation-suite
+   git clone https://github.com/greenyarik0505-jpg/zerotwo-automation-toolkit.git
+   cd zerotwo-automation-toolkit
    ```
 
 2. **Создайте и активируйте виртуальное окружение:**
