@@ -1,0 +1,16 @@
+{
+  "threads": 3,
+  "target_count": 5,
+  "use_proxies": false,
+  "proxy_file": "proxies.txt",
+  "proxy_type_default": "http",
+  "proxy_rotation": "round_robin",
+  "tempmail_provider": "auto",
+  "request_timeout": 30,
+  "email_poll_timeout": 45,
+  "email_poll_interval": 2,
+  "accounts_file": "accounts.txt",
+  "accounts_json_file": "accounts.json",
+  "complete_onboarding": true,
+  "default_password": null
+}

@@ -1,0 +1,15 @@
+# Вставьте ваши прокси в этот файл (по одному на строку).
+# Поддерживаются любые типы и форматы:
+# 
+# 1. С протоколом:
+#    http://ip:port
+#    http://user:password@ip:port
+#    https://user:password@ip:port
+#    socks5://user:password@ip:port
+#    socks4://ip:port
+#
+# 2. Без протокола (протокол берется из config.json: proxy_type_default):
+#    ip:port
+#    ip:port:user:password
+#    user:password@ip:port
+#

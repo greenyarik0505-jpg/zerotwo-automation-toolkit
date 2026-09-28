@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and sensitive data
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output account files and personal data
+accounts.txt
+accounts.json
+
+# Internal spec
+Promt.spec
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE configs
+.vscode/
+.idea/
